@@ -1,0 +1,134 @@
+:root .contrast {
+    --bs-body-bg:#8e0000;
+}
+
+
+
+body.contrast{
+    background-color: #1F1F1F;
+}
+
+.contrast{
+    transition: all .7s;
+}
+
+.clicavel{
+    color: #ffff;
+    cursor: pointer;
+}
+
+.contrast .small-card {
+    border-left: 1rem solid #ffff;
+}
+
+
+.contrast .small-card-value{
+    color: #ffffff;
+}
+
+.contrast #navbar{
+    background-color: #1F1F1F;
+
+}
+
+.contrast #sidebar{
+    background-color: #1F1F1F;
+    border:1.5px solid #ffffff;
+}
+
+.contrast .big-number {
+    color: #ffffff;
+}
+
+
+.contrast .side-item.active {
+    border:2px solid #31B574;
+}
+
+.contrast .side-item:hover:not(.active),
+#logout_btn:hover {
+    border:2px solid #31B574;
+    background-color: #1F1F1F;
+    
+}
+
+.contrast .small-card{
+    background-color: #1F1F1F;
+    border-top: 3px solid #ffff;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+    border-top: 3px solid #ffff;
+}
+.contrast .card{
+    background-color: #1F1F1F;
+    border-top: 3px solid #ffff;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+    border-top: 3px solid #ffff;
+}
+
+.contrast .small-card-title {
+    color: #ffff;
+}
+
+.contrast .big-number {
+    color: #ffff;
+}
+
+
+
+.contrast #navbar{
+    background-color:#1F1F1F;
+    border: 1.5px solid #ffff;
+}
+
+.contrast #sidebar{
+    background-color: #1F1F1F;
+}
+
+.contrast .big-number {
+    color: #ffff;
+}
+
+.contrast h2{
+    color: #ffffff;
+}
+
+.contrast h4{
+    color: #ffffff;
+}
+.contrast b{
+    color: #ffffff;
+}
+
+.contrast h3{
+    color: #ffff;
+}
+
+.contrast span{
+    color: #ffff;
+}
+
+.contrast svg{
+    color:#ffff;
+}
+
+td{
+    color: #1F1F1F;
+}
+
+.contrast button{
+    background-color:#1F1F1F;
+}
+
+.contrast button :hover{
+    border:solid 2px #ffff;
+    background-color: #1F1F1F;
+}
+
+
+
+
+
+
+
+
+

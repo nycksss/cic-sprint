@@ -1,0 +1,21 @@
+.blurred p{
+    background-color: rgba(128, 65, 65, 0.767);
+    
+}
+
+.clicavell{
+    cursor: pointer;
+}
+
+.small-card-value p.blurred {
+    background-color: rgba(128, 65, 65, 0.767);
+    
+}
+
+p.blurred {
+    filter: blur(5px);
+}
+
+span.blurred {
+    filter: blur(5px);
+}

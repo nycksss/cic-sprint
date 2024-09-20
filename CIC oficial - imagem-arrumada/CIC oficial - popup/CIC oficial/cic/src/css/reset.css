@@ -1,0 +1,32 @@
+:root {
+    --color-verde: #31B574;
+    --color-branco: #fff;
+    --color-preto:#000;
+    --color-azul:#003C95;
+    --color-user-infos:#88EAC3;
+    --color-user-infos-dark:#93BDFC;
+    --color-contrastdark: #1F1F1F;
+    --color-contrastblue: #367BF5;
+    --color-constrastorange: #F3A72E;
+    
+} 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: "Montserrat", sans-serif;
+    background-color: #e3e9f7;
+}
+
+img{
+    width: 100%;
+}

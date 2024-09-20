@@ -1,0 +1,77 @@
+.none{
+    display: none;
+}
+
+
+
+.dark{
+    transition: all .7s;
+}
+
+.transition{
+    transition: all .7s;
+
+}
+
+body.dark{
+    background-color: black;
+}
+
+.dark .clicavel{
+    color: #ffffff;
+}
+
+.dark .small-card {
+    border-left: 1rem solid var(--color-azul);
+}
+
+.dark .border-top{
+    border-top: 3px solid var(--color-azul);
+}
+
+.dark .small-card-value{
+    color: var(--color-azul);
+}
+
+.dark .big-number{
+    color: var(--color-azul);
+
+}
+
+.dark .card {
+    border-top: 3px solid var(--color-azul);
+}
+
+.dark #navbar{
+    background-color:var(--color-azul);
+}
+
+.dark #sidebar{
+    background-color: var(--color-azul);
+}
+
+.dark .big-number {
+    color: var(--color-azul);
+}
+
+.green{
+    color: var(--color-verde);
+    
+}
+
+.dark #user_infos span:last-child{
+    color: var(--color-branco);
+}
+
+.dark .side-item.active {
+    background-color:var(--color-user-infos-dark);
+}
+
+.dark .side-item:hover:not(.active),
+#logout_btn:hover {
+    background-color:var(--color-user-infos-dark);
+}
+
+.dark button{
+    background-color:var(--color-azul);
+}
